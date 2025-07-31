@@ -37,7 +37,9 @@ You upload A **leaf image**
 ---
 
 ## 🚀 Live Demo
-
+⚠️ Note: This app is deployed on Streamlit’s free tier and may go to sleep due to inactivity.
+If the app seems unresponsive, please click “Backup this app” to get it started again.
+Thank you for your patience! 🚀
 > 🔗 [Click here to use the Live App](https://smart-farming-assistant-crop-recommender-disease-detector-vn2g.streamlit.app/) 
 
 ---
