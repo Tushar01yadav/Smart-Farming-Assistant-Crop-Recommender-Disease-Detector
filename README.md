@@ -1,4 +1,4 @@
-# 🌾 Smart Farming Assistant 🌿  
+# 🌾 Smart Farming : Recommender + Disease Predictor Assistant 🌿  
 ### Crop Recommender System + Crop Disease Predictor using CNN 🌱🧠  
 
 Welcome to the **Smart Farming Assistant** — an AI-powered web app that helps farmers make data-driven decisions! This system recommends the most suitable crop based on environmental conditions and detects plant diseases using image classification (CNN).  
