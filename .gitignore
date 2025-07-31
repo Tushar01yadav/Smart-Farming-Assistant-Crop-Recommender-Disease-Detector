@@ -1,0 +1,43 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ignore virtual environment folders
+venv/
+env/
+myenv/
+ENV/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS and IDE/system files
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+
+# Ignore Hugging Face token cache
+~/.huggingface/
+
+# Ignore model weights and output directories
+*.h5
+*.ckpt
+*.pb
+*.pth
+*.pt
+*.tflite
+saved_model/
+runs/
+
+# Ignore dataset folders
+PlantVillage/
+
+# Ignore environment and dependency files (optional)
+*.env
+.env/
